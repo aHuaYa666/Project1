@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exer1/Exer1.iml" filepath="$PROJECT_DIR$/Exer1/Exer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer10/Exer10.iml" filepath="$PROJECT_DIR$/Exer10/Exer10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer11/Exer11.iml" filepath="$PROJECT_DIR$/Exer11/Exer11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer12/Exer12.iml" filepath="$PROJECT_DIR$/Exer12/Exer12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer13/Exer13.iml" filepath="$PROJECT_DIR$/Exer13/Exer13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer14/Exer14.iml" filepath="$PROJECT_DIR$/Exer14/Exer14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer15/Exer15.iml" filepath="$PROJECT_DIR$/Exer15/Exer15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer16/Exer16.iml" filepath="$PROJECT_DIR$/Exer16/Exer16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer17/Exer17.iml" filepath="$PROJECT_DIR$/Exer17/Exer17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer18/Exer18.iml" filepath="$PROJECT_DIR$/Exer18/Exer18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer19/Exer19.iml" filepath="$PROJECT_DIR$/Exer19/Exer19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer20/Exer20.iml" filepath="$PROJECT_DIR$/Exer20/Exer20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer21/Exer21.iml" filepath="$PROJECT_DIR$/Exer21/Exer21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer22/Exer22.iml" filepath="$PROJECT_DIR$/Exer22/Exer22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer23/Exer23.iml" filepath="$PROJECT_DIR$/Exer23/Exer23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer3/Exer3.iml" filepath="$PROJECT_DIR$/Exer3/Exer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer4/Exer4.iml" filepath="$PROJECT_DIR$/Exer4/Exer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer5/Exer5.iml" filepath="$PROJECT_DIR$/Exer5/Exer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer6/Exer6.iml" filepath="$PROJECT_DIR$/Exer6/Exer6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer7/Exer7.iml" filepath="$PROJECT_DIR$/Exer7/Exer7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer8/Exer8.iml" filepath="$PROJECT_DIR$/Exer8/Exer8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exer9/Exer9.iml" filepath="$PROJECT_DIR$/Exer9/Exer9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project01/Project01.iml" filepath="$PROJECT_DIR$/Project01/Project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project02/Project02.iml" filepath="$PROJECT_DIR$/Project02/Project02.iml" />
+    </modules>
+  </component>
+</project>
